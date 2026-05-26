@@ -138,6 +138,4 @@ The agent receives a natural language instruction, uses the `BrowserAutomationPr
 
 ---
 
-## License
-
 This project is provided as-is for demonstration and learning purposes. See [LICENSE](LICENSE) for details if applicable.
